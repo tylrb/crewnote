@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "prettier": "prettier --cache --write ."
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
